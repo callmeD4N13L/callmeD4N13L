@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**callmeD4N13L/callmeD4N13L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dontreadthisplease/dontreadthisplease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+> **You can call me Daniel**
+>
+> Don't miss out me on social media, Just leave me a text on Linkedin, Discord & **Telegram**, I'll be glad to give you a hand!
+
