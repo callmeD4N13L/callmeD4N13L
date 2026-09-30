@@ -66,42 +66,6 @@
 
 ---
 
-## 💼 Experience
-
-| Role | Org | Period |
-| ---- | --- | ------ |
-| Vulnerability Researcher / OSINT / Red Team / Malware Dev | Podsoft | Mar 2025 – Present |
-| SOC Analyst — Tier 1 / 2 | Sindad Sec, Tehran | Jul 2024 – Feb 2025 |
-| Junior Network & Security Specialist (Internship) | Douran Group, Tehran | Oct 2023 – Jun 2024 |
-| IT & Network Security Assistant (Project-based) | Commercial / education sites | Feb 2024 – Feb 2025 |
-
----
-
-## 📜 Certifications & Courses
-
-- CompTIA Network+ / Security+ — Douran Academy
-- Cisco CCNA 200-301 — Douran Academy
-- CEH — Douran Academy
-- SANS SEC504 / SEC450 — Self Study
-- LPIC-1 · eJPT · PFPT — Self Study
-- PWK (Penetration Testing with Kali Linux) — Ravin Academy
-- PowerShell for Pentesters — Lian Academy
-- Windows Log Analysis — Ravin Academy
-- Elasticsearch Incident Management · SQL · Blockchain & Crypto — Self Study
-
----
-
-## 🔬 Research & Projects
-
-- **Linux shell types** — practical comparison for operators & detection engineers
-- **What is a WAF?** — explainer commissioned by Douran Group
-- **Custom Nuclei templates** — designed & tested in lab
-- **Reverse engineering & steganography notes** — RE workflows & detection basics
-
-🏆 **Top 20 — IUT National CTF (Individual)** · Isfahan University of Technology · Mar 2024
-
----
-
 ## 📊 Stats
 
 <div align="center">
